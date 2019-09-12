@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"input-row .",[1],"title{ width: 25%; }\n",],undefined,{path:"./pages/user/changePhone/changePhone.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/changePhone/changePhone.wxml') } }));

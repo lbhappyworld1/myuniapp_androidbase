@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nwx-button[type\x3dmainbr] { color: #b38a11; border: ",[0,1]," solid #b38a11; background: #fff; border-radius: ",[0,50],"; line-height: 1.9; }\n",],"Some selectors are not allowed in component wxss, including tag name selectors, ID selectors, and attribute selectors.(./pages/user/assets/pay/pay-code/pay-code.wxss:8:8)",{path:"./pages/user/assets/pay/pay-code/pay-code.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/assets/pay/pay-code/pay-code.wxml') } }));

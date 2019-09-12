@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nbody { background: #fff; }\nbody .",[1],"ad-padding { padding: ",[0,40],"; }\nbody .",[1],"ad-title { width: ",[0,200],"; }\n",],undefined,{path:"./pages/user/assets/assetsDetails/assetsDetails.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/assets/assetsDetails/assetsDetails.wxml') } }));

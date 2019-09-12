@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"page,.",[1],"borrowed_btns{ padding: ",[0,20]," ",[0,30],"; }\n",],undefined,{path:"./pages/home/protocol/reserve/reserve.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/protocol/reserve/reserve.wxml') } }));

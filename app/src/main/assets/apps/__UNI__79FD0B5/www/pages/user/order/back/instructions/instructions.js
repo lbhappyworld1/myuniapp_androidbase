@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"page, .",[1],"page_body{ height: 100%; background-color: #fff; }\n.",[1],"back_instructions{ height: calc(100% - ",[0,90],"); }\n.",[1],"back_instructions_btns{ height: ",[0,90],"; background-color: #b38a11; color: #fff; }\n",],undefined,{path:"./pages/user/order/back/instructions/instructions.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/order/back/instructions/instructions.wxml') } }));

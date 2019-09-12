@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nbody, .",[1],"page { height: 100%; overflow: hidden; background: #f4f4f4; }\n.",[1],"coupons-wrap { height: calc(100% - ",[0,90],"); }\n",],undefined,{path:"./pages/home/coupons/coupons-effective/coupons-effective.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/coupons/coupons-effective/coupons-effective.wxml') } }));

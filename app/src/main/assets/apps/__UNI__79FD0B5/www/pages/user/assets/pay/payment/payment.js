@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"rmbLogo { font-size: ",[0,40],"; }\n.",[1],"bottom-title { border-bottom: 1px #f5f5f5 solid; }\nwx-button { background-color: #007aff; color: #ffffff; }\n",],undefined,{path:"./pages/user/assets/pay/payment/payment.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/assets/pay/payment/payment.wxml') } }));

@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nbody, .",[1],"page { background-color: #fff; }\n.",[1],"btn-wrap { width: 100%; padding: ",[0,108]," 0 ",[0,82],"; }\n.",[1],"btn-wrap .",[1],"btn { height: ",[0,64],"; width: ",[0,224],"; font-size: ",[0,26],"; color: #fff; background-size: 100%; }\n",],undefined,{path:"./pages/home/other/know-sxh/know-sxh.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/other/know-sxh/know-sxh.wxml') } }));

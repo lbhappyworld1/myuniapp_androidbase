@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"page{ padding: ",[0,20],"; }\n.",[1],"shareCode{ background-color: #fff; border-radius: ",[0,10],"; padding: ",[0,50]," ",[0,30],"; }\n.",[1],"share-input{ width: 70%; padding: 0 ",[0,10],"; text-align: center; border:",[0,1]," solid #b38a11; margin: ",[0,20]," auto ",[0,30],"; }\n.",[1],"uni-input-input{ padding: 0; }\n",],undefined,{path:"./pages/user/order/orderCode/orderCode.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/order/orderCode/orderCode.wxml') } }));

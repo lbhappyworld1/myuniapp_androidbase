@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"page, .",[1],"borrowed_btns { padding: ",[0,20]," ",[0,30],"; }\n.",[1],"sxh-h3{ font-weight: bold; }\n.",[1],"underline{ text-decoration: underline; }\n",],undefined,{path:"./pages/home/protocol/replace/replace.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/protocol/replace/replace.wxml') } }));

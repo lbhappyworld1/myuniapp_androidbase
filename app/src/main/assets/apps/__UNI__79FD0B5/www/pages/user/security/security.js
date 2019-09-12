@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"page { padding-top: ",[0,20],"; }\n.",[1],"page .",[1],"logout-row { width: 100%; position: fixed; left: 0; margin-top: ",[0,50],"; bottom: ",[0,20],"; }\n.",[1],"page .",[1],"logout-row wx-button { margin: ",[0,20],"; }\n",],undefined,{path:"./pages/user/security/security.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/security/security.wxml') } }));

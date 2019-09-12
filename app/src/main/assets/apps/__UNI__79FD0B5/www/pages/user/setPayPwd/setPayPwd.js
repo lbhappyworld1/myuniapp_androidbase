@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"input-row .",[1],"title { width: ",[0,200],"; }\n.",[1],"pay_code{ padding-right: ",[0,20],"; }\n",],undefined,{path:"./pages/user/setPayPwd/setPayPwd.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/setPayPwd/setPayPwd.wxml') } }));
